@@ -1,3 +1,2 @@
 this is my project on Predictive Modeling using Linear Regression! In this project, I imported the libraries like numpy,pandas,matplotlib and seaborn and utilized the power of linear regression to build a predictive model that forecasts a numerical outcome based on multiple features. By leveraging a dataset with a continuous target variable, I was able to train,test and evaluate the model's performance accurately.
-
-Linear regression is a fundamental technique in the realm of machine learning, offering insights into the relationship between independent and dependent variables. By understanding how these variables interact, we can make predictions about future outcomes.
+By understanding how these variables interact, we can make predictions about future outcomes.
